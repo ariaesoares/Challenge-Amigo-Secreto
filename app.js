@@ -26,7 +26,7 @@ function atualizarLista() {
 }
 
 function sortearAmigo() {
-    if (listaAmigos.length < 2) {
+    if (listaAmigos.length <2) {
         alert("Adicione pelo menos 2 amigos para sortear.");
         return;
     } else { 
@@ -36,7 +36,7 @@ function sortearAmigo() {
     resultado.innerHTML = "";
     let li = document.createElement("li");
     li.textContent = "O seu amigo(a) secreto(a) é: " + amigosSorteados[0];
-    
+    resultado.appendChild(li);
     }
     
 
