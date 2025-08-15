@@ -1,3 +1,5 @@
+<img width="400" height="700" alt="image" src="https://github.com/user-attachments/assets/6821feed-89f0-4900-8447-38282694801f" />
+
 #🎁 Challenge - Amigo Secreto
 
 
@@ -24,6 +26,7 @@ Foi criada para treinar **manipulação do DOM**, **lógica de programação** e
 - ➕ Adicionar nomes à lista de participantes  
 - 🔄 Sortear o amigo secreto de cada participante  
 - 🖥 Exibir o resultado na tela  
+
 
 
 
