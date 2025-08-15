@@ -93,8 +93,11 @@ body {
 }
 
 .button-container {
-    width: 300px;
+    width: 400px;
     justify-content: center;
+    display: flex;
+    gap: 10px;
+   
 }
 
 /* Estilos de entrada de texto */
