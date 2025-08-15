@@ -38,8 +38,16 @@ function sortearAmigo() {
     li.textContent = "O seu amigo(a) secreto(a) é: " + amigosSorteados[0];
     resultado.appendChild(li);
     }
+}
     
+function novoSorteio() {
+    listaAmigos = [];
+    document.getElementById("listaAmigos").innerHTML = "";
+    document.getElementById("resultado").innerHTML = "";
+    document.getElementById("amigo").value;
+    adicionarAmigo()
+    atualizarLista()
+    sortearAmigo()
+}
 
 
-
-    }
